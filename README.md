@@ -13,6 +13,6 @@ THIS TOOL IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND.
 # About Us
 **Sandro Pereira** | [DevScope](http://www.devscope.net/) | MVP & MCTS BizTalk Server 2010 | [https://blog.sandro-pereira.com/](https://blog.sandro-pereira.com/) | [@sandro_asp](https://twitter.com/sandro_asp)
 
-**Pedro Almeida** | [DevScope](http://www.devscope.net/) | BizTalk Server Senior Consultant
+**Pedro Almeida** | [DevScope](http://www.devscope.net/) | BizTalk Server Senior Consultant | [@ItsNotRcktScnce](https://twitter.com/ItsNotRcktScnce)
 
-**Diogo Formosinho** | [DevScope](http://www.devscope.net/) | BizTalk Server Developer
+**Diogo Formosinho** | [DevScope](http://www.devscope.net/) | BizTalk Server Developer | [https://www.linkedin.com/in/diogo-formosinho-242b221a2/](https://www.linkedin.com/in/diogo-formosinho-242b221a2/)
